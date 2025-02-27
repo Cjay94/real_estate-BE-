@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cognitoId": "010be580-60a1-70ae-780e-18a6fd94ad32",
+    "name": "Jana Smit",
+    "email": "jana.smit@gmail.com",
+    "phoneNumber": "+27 72 345 6789"
+  },
+  {
+    "id": 2,
+    "cognitoId": "us-east-2:23456789-90ab-cdef-1234-567890abcdef",
+    "name": "Thandi Nkosi",
+    "email": "thandi.nkosi@yahoo.com",
+    "phoneNumber": "+27 83 987 6543"
+  },
+  {
+    "id": 3,
+    "cognitoId": "us-east-2:34567890-90ab-cdef-1234-567890abcdef",
+    "name": "Richard Levi",
+    "email": "richard.levi@hotmail.com",
+    "phoneNumber": "+27 61 456 7890"
+  },
+  {
+    "id": 4,
+    "cognitoId": "us-east-2:45678901-90ab-cdef-1234-567890abcdef",
+    "name": "Sarai Govender",
+    "email": "sarai.govender@gmail.com",
+    "phoneNumber": "+27 79 234 5678"
+  },
+  {
+    "id": 5,
+    "cognitoId": "us-east-2:56789012-90ab-cdef-1234-567890abcdef",
+    "name": "Jabulani Zulu",
+    "email": "jabulani.zulu@outlook.com",
+    "phoneNumber": "+27 71 876 5432"
+  },
+  {
+    "id": 6,
+    "cognitoId": "us-east-2:67890123-90ab-cdef-1234-567890abcdef",
+    "name": "Fred Jacobs",
+    "email": "fred.jacobs@gmail.com",
+    "phoneNumber": "+27 82 345 6789"
+  },
+  {
+    "id": 7,
+    "cognitoId": "us-east-2:78901234-90ab-cdef-1234-567890abcdef",
+    "name": "Daniel Martinez",
+    "email": "daniel.martinez@yahoo.com",
+    "phoneNumber": "+27 76 789 0123"
+  },
+  {
+    "id": 8,
+    "cognitoId": "us-east-2:89012345-90ab-cdef-1234-567890abcdef",
+    "name": "Zinhle Moyo",
+    "email": "zinhle.moyo@gmail.com",
+    "phoneNumber": "+27 74 678 9012"
+  },
+  {
+    "id": 9,
+    "cognitoId": "us-east-2:90123456-90ab-cdef-1234-567890abcdef",
+    "name": "Tiaan Roux",
+    "email": "tiaan.roux@outlook.com",
+    "phoneNumber": "+27 73 567 8901"
+  },
+  {
+    "id": 10,
+    "cognitoId": "us-east-2:01234567-90ab-cdef-1234-567890abcdef",
+    "name": "Fatima Abrahams",
+    "email": "fatima.abrahams@gmail.com",
+    "phoneNumber": "+27 81 456 7890"
+  }
+]
